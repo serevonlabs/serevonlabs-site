@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Serevon Labs mark">
-  <defs><linearGradient id="g" x1=".1" y1="0" x2=".9" y2="1"><stop offset="0" stop-color="#17a1ff"/><stop offset="1" stop-color="#1357c6"/></linearGradient></defs>
-  <rect x="12" y="12" width="104" height="104" rx="28" fill="#081421"/>
-  <path d="M91 34H52c-14 0-23 7-23 18 0 10 7 16 20 19l22 5c5 1 8 3 8 6 0 4-4 7-11 7H34v12h37c16 0 27-8 27-20 0-11-7-17-22-21l-21-5c-5-1-8-3-8-6 0-3 4-5 10-5h34V34Z" fill="url(#g)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="15" fill="#071423"/><path d="M46 14H24c-8 0-13 4-13 10 0 5 4 8 10 9l18 3c3 .5 5 2 5 4 0 3-3 5-7 5H15v7h23c9 0 15-5 15-12 0-6-4-9-12-10l-17-3c-3-.5-5-1.5-5-3.5 0-2 2-3.5 6-3.5h21z" fill="#2EA8FF"/></svg>
