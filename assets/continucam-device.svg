@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#06111d"/><stop offset=".55" stop-color="#0c2947"/><stop offset="1" stop-color="#06111d"/></linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#557997"/><stop offset=".45" stop-color="#25465f"/><stop offset="1" stop-color="#102535"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="24" flood-opacity=".55"/></filter>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="950" cy="105" r="230" fill="#1386eb" opacity=".13"/>
+  <g transform="translate(180 120) rotate(-2 420 230)" filter="url(#shadow)">
+    <rect x="0" y="0" width="840" height="455" rx="54" fill="#02070d" stroke="#6f8aa0" stroke-opacity=".35" stroke-width="3"/>
+    <rect x="20" y="20" width="800" height="415" rx="40" fill="#0d1520"/>
+    <rect x="48" y="62" width="610" height="330" rx="22" fill="url(#screen)"/>
+    <path d="M48 285 175 190 255 285 390 135 532 294 658 196V392H48Z" fill="#0a1b28"/>
+    <path d="M48 325 180 245 295 325 430 235 552 328 658 260V392H48Z" fill="#06131d"/>
+    <circle cx="582" cy="112" r="38" fill="#f6c46f" opacity=".9"/>
+    <rect x="70" y="83" width="115" height="36" rx="18" fill="#07111b" opacity=".74"/><circle cx="92" cy="101" r="6" fill="#ff4e60"/><text x="109" y="106" font-family="Arial" font-size="18" fill="#fff">00:00:00</text>
+    <rect x="688" y="74" width="96" height="280" rx="26" fill="#0a111a"/>
+    <circle cx="736" cy="143" r="27" fill="none" stroke="#dfe9f0" stroke-width="5"/><path d="M726 143h20M736 133v20" stroke="#dfe9f0" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="736" cy="218" r="34" fill="#ff4051" stroke="#fff" stroke-width="6"/>
+    <circle cx="736" cy="303" r="27" fill="none" stroke="#dfe9f0" stroke-width="5"/><path d="M722 303h28M736 289v28" stroke="#dfe9f0" stroke-width="4" stroke-linecap="round"/>
+    <text x="48" y="47" font-family="Arial" font-weight="700" font-size="26" fill="#fff" letter-spacing="2">CONTINUCAM</text>
+  </g>
+  <g transform="translate(1000 232)"><circle r="55" fill="#0a1723" stroke="#1ba2ff" stroke-width="3"/><circle r="26" fill="none" stroke="#8fd0ff" stroke-width="5"/><circle r="8" fill="#1ba2ff"/></g>
+</svg>
