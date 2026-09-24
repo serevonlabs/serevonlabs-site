@@ -1,0 +1,8 @@
+HTML files checked: 32
+ContinuCam legal HTML pages (including 2 index defaults): 26
+Localized policy/terms pages: 24
+Missing local href/src targets: 0
+Windows mentions in legal HTML: 0
+Inline onclick attributes in legal HTML: 0
+Sitemap URL entries: 29
+RESULT: PASS
