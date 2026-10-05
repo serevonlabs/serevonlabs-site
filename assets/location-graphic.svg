@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">Serevon Labs business location graphic</title><desc id="d">Abstract map-inspired illustration representing the Serevon Labs Schaumburg business address.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071423"/><stop offset="1" stop-color="#0C3154"/></linearGradient>
+  <radialGradient id="glow" cx="72%" cy="18%" r="70%"><stop offset="0" stop-color="#1FA6FF" stop-opacity=".34"/><stop offset="1" stop-color="#1FA6FF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="760" rx="42" fill="url(#bg)"/><rect width="1200" height="760" rx="42" fill="url(#glow)"/>
+<g fill="none" stroke="#7FC7F6" stroke-opacity=".16" stroke-width="4">
+ <path d="M-60 165C170 70 250 245 455 180S742 70 1260 185"/><path d="M-55 300C190 230 320 340 520 280S890 190 1260 300"/>
+ <path d="M-30 460C190 385 360 510 590 430S970 335 1250 460"/><path d="M120 0C180 175 70 325 170 760"/>
+ <path d="M390 0C470 210 340 380 440 760"/><path d="M720 0C790 200 665 405 765 760"/><path d="M1040 0C1080 210 980 430 1100 760"/>
+</g>
+<g transform="translate(725 300)">
+ <circle r="122" fill="#0B1E31" stroke="#37B3FF" stroke-width="4"/><circle r="82" fill="#0F2B48"/>
+ <path d="M0-56c-36 0-65 29-65 65 0 54 65 120 65 120S65 63 65 9C65-27 36-56 0-56Z" fill="#1BA7FF"/>
+ <circle cy="8" r="21" fill="#F7FAFC"/><circle cy="8" r="9" fill="#0A2138"/>
+</g>
+<g fill="#EAF4FB"><text x="82" y="590" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700">SCHAUMBURG, ILLINOIS</text><text x="82" y="638" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="4" fill="#80A1BA">BUSINESS ADDRESS</text></g>
+</svg>
