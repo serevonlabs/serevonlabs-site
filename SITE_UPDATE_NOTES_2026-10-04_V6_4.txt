@@ -1,7 +1,0 @@
-Serevon Labs Website v6.4 - Grid Removal
-Date: 2026-10-04
-
-- Removed the rectangular horizontal/vertical grid overlay from the Business Software Solutions SVG.
-- The grid was part of the custom SVG overlay, not part of Adobe Stock image #1303670584.
-- Preserved the Adobe Stock preview background, dark overlays, platform cards, connector lines, logos, and workflow controls.
-- No ContinuCam legal content changed.
