@@ -1,0 +1,15 @@
+Serevon Labs website update - 2026-10-03
+
+Changes in this package:
+- Replaced the public contact/support email address with appsupport@serevonlabs.com throughout the website and ContinuCam legal/contact pages.
+- Repositioned the company as a business software development shop rather than an Android-first developer.
+- Added clear service language covering web applications, enterprise solutions, Android, iOS, and Windows software.
+- Updated homepage metadata, structured organization data, hero copy, service messaging, CTAs, and footer positioning.
+- Updated the About page with business-focused company copy and a "What we build" section.
+- Updated the Support page to support both product support and business software project inquiries.
+- Replaced the duplicated location-map artwork in the homepage About Us section and About page Our Company section with two new self-contained SVG capability illustrations.
+- Changed the identity visual CSS from object-fit: cover to object-fit: contain so the new illustrations are not cropped.
+- All local HTML asset/link references were checked after the update; no missing local references were found.
+
+Deployment:
+Deploy the contents of this folder to the same Azure Static Web Apps site currently serving serevonlabs.com, replacing the existing site files.
