@@ -1,0 +1,5 @@
+Serevon Labs Website
+Build: 6.10-2026-10-04
+Change: ContinuCam homepage product-positioning tagline update
+Primary stylesheet: styles-v69.css
+Primary script: script-v69.js
