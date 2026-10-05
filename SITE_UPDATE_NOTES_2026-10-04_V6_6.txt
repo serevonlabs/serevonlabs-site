@@ -1,6 +1,0 @@
-Serevon Labs website v6.6 - ContinuCam branding refinement
-
-- Updated the visible ContinuCam product wordmark on the homepage and Our Apps page.
-- "Continu" inherits the surrounding heading color.
-- "Cam" now uses the Serevon blue accent (#22a8ff), matching the application branding.
-- No legal text, product copy, links, or application functionality were changed.
