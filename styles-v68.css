@@ -229,11 +229,3 @@ button,input,textarea,select{font:inherit}
   .trust .container,.service-grid,.process-grid,.feature-grid,.location-grid{grid-template-columns:1fr}.service-card{min-height:auto}.identity-visual{padding:9px}.visual-tags{left:20px;right:20px;bottom:18px}.contact-card{border-radius:25px}.page-hero-small h1{font-size:49px}.footer-links{gap:14px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}.button,.service-card{transition:none}}
-
-/* V6.9 ContinuCam homepage light-section contrast fix */
-.section-white .product-copy{color:var(--ink)}
-.section-white .product-copy h2{color:var(--ink)}
-.section-white .product-copy .subhead{color:#087ed8}
-.section-white .product-copy>p{color:var(--muted)!important}
-.section-white .product-copy .check-list span{color:var(--ink)!important}
-.section-white .product-copy .check-list i{background:#e6f5ff;color:#149eea}
